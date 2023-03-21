@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
+            android:name=".dolar"
+            android:exported="false" />
+        <activity
+            android:name=".dolarMainActivity2"
+            android:exported="false" />
+        <activity
             android:name=".calculadora"
             android:exported="false" />
         <activity
